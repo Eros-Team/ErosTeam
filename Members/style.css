@@ -1,0 +1,34 @@
+html , body{
+   margin: 20px;
+   padding: 20px;
+}
+body{
+   background-color: rgb(102, 89, 223);
+}
+.members{
+  padding: 15px 15px 15px 15px;
+  font-size: 30px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.356);
+}
+p.chief{
+   padding-right: 20px;
+}
+p.co{
+   color: rgb(209, 47, 47);
+}
+p.mod{
+   color: rgb(131, 185, 255);
+}
+p.prime{
+   color: gold;
+}
+p.ex{
+   color: #926aa4;
+}
+p.mem{
+   color: #609e8e;
+}
+li{
+   text-decoration: none;
+}
