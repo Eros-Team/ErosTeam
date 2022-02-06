@@ -2,7 +2,7 @@
 The personal website of Team-Eros
 
 - Developed by etacre
-- hosted with github by sensieofvenom
+- Hosted with github by sensieofvenom
 
 ### Licensed under MIT
 ```MIT License
