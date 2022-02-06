@@ -1,5 +1,5 @@
-# Eros-Team.github.io
-The personal website of Team-Eros
+# Eros.github.io
+The official website of Eros. Eros is a family and a team of MineCrafters. Eros started it's journey on BedCraft. BedCraft is a Bangladeshi Minecraft Server.
 
 - Developed by etacre
 - Hosted with github by sensieofvenom
