@@ -1,6 +1,9 @@
 # Eros-Team.github.io
 The personal website of Team-Eros
 
+- Developed by etacre
+- hosted with github by sensieofvenom
+
 ### Licensed under MIT
 ```MIT License
 
