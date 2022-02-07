@@ -3,7 +3,7 @@
    padding: 0;
 }
 html , body{
-   background-image: url(Images/background.jpg);
+   background: url(images/background.jpg);
    background-position: auto;
    background-size: cover;
    background-repeat: no-repeat;
@@ -181,3 +181,11 @@ p{
    opacity:0.6;
  }
 /*Footer END */
+span.eros{
+  color: rgb(0, 0, 0);
+  background: url(Images/download.png) no-repeat;
+  -webkit-mask-image: url(Images/download.png);
+  mask-image: url(Images/download.png);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
